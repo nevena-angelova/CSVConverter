@@ -1,0 +1,902 @@
+[
+    {
+        "GENDER": "Female",
+        "DEPART": "Ship",
+        "EDUC": "College",
+        "AGE": "22",
+        "HEIGHT": "63",
+        "SENIOR": "4",
+        "SALARY": "23.400"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Package",
+        "EDUC": "College",
+        "AGE": "49",
+        "HEIGHT": "65",
+        "SENIOR": "17",
+        "SALARY": "40.400"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Bake",
+        "EDUC": "College",
+        "AGE": "36",
+        "HEIGHT": "67",
+        "SENIOR": "8",
+        "SALARY": "29.400"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Package",
+        "EDUC": "HS",
+        "AGE": "37",
+        "HEIGHT": "67",
+        "SENIOR": "3",
+        "SALARY": "24.800"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Ship",
+        "EDUC": "Grad",
+        "AGE": "43",
+        "HEIGHT": "66",
+        "SENIOR": "11",
+        "SALARY": "31.200"
+    },
+    {
+        "GENDER": "Female",
+        "DEPART": "Bake",
+        "EDUC": "HS",
+        "AGE": "20",
+        "HEIGHT": "69",
+        "SENIOR": "1",
+        "SALARY": "21.800"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Bake",
+        "EDUC": "College",
+        "AGE": "28",
+        "HEIGHT": "67",
+        "SENIOR": "0",
+        "SALARY": "19.800"
+    },
+    {
+        "GENDER": "Female",
+        "DEPART": "Package",
+        "EDUC": "College",
+        "AGE": "38",
+        "HEIGHT": "65",
+        "SENIOR": "4",
+        "SALARY": "24.600"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Bake",
+        "EDUC": "College",
+        "AGE": "42",
+        "HEIGHT": "68",
+        "SENIOR": "6",
+        "SALARY": "25.900"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Package",
+        "EDUC": "College",
+        "AGE": "23",
+        "HEIGHT": "66",
+        "SENIOR": "0",
+        "SALARY": "18.800"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Package",
+        "EDUC": "College",
+        "AGE": "26",
+        "HEIGHT": "66",
+        "SENIOR": "2",
+        "SALARY": "21.300"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Package",
+        "EDUC": "HS",
+        "AGE": "35",
+        "HEIGHT": "70",
+        "SENIOR": "0",
+        "SALARY": "20.200"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Ship",
+        "EDUC": "College",
+        "AGE": "23",
+        "HEIGHT": "67",
+        "SENIOR": "2",
+        "SALARY": "22.000"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Bake",
+        "EDUC": "College",
+        "AGE": "36",
+        "HEIGHT": "68",
+        "SENIOR": "5",
+        "SALARY": "24.500"
+    },
+    {
+        "GENDER": "Female",
+        "DEPART": "Package",
+        "EDUC": "HS",
+        "AGE": "24",
+        "HEIGHT": "64",
+        "SENIOR": "3",
+        "SALARY": "27.000"
+    },
+    {
+        "GENDER": "Female",
+        "DEPART": "Package",
+        "EDUC": "College",
+        "AGE": "35",
+        "HEIGHT": "68",
+        "SENIOR": "4",
+        "SALARY": "24.600"
+    },
+    {
+        "GENDER": "Female",
+        "DEPART": "Bake",
+        "EDUC": "College",
+        "AGE": "33",
+        "HEIGHT": "64",
+        "SENIOR": "14",
+        "SALARY": "36.600"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Bake",
+        "EDUC": "College",
+        "AGE": "27",
+        "HEIGHT": "70",
+        "SENIOR": "0",
+        "SALARY": "19.100"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Package",
+        "EDUC": "College",
+        "AGE": "37",
+        "HEIGHT": "68",
+        "SENIOR": "5",
+        "SALARY": "24.200"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Package",
+        "EDUC": "HS",
+        "AGE": "31",
+        "HEIGHT": "66",
+        "SENIOR": "13",
+        "SALARY": "38.100"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Ship",
+        "EDUC": "College",
+        "AGE": "26",
+        "HEIGHT": "67",
+        "SENIOR": "0",
+        "SALARY": "18.900"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Bake",
+        "EDUC": "College",
+        "AGE": "28",
+        "HEIGHT": "67",
+        "SENIOR": "1",
+        "SALARY": "19.500"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Bake",
+        "EDUC": "College",
+        "AGE": "35",
+        "HEIGHT": "69",
+        "SENIOR": "4",
+        "SALARY": "24.700"
+    },
+    {
+        "GENDER": "Female",
+        "DEPART": "Bake",
+        "EDUC": "College",
+        "AGE": "38",
+        "HEIGHT": "61",
+        "SENIOR": "2",
+        "SALARY": "20.800"
+    },
+    {
+        "GENDER": "Female",
+        "DEPART": "Bake",
+        "EDUC": "College",
+        "AGE": "32",
+        "HEIGHT": "63",
+        "SENIOR": "0",
+        "SALARY": "19.100"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Package",
+        "EDUC": "College",
+        "AGE": "39",
+        "HEIGHT": "65",
+        "SENIOR": "12",
+        "SALARY": "33.600"
+    },
+    {
+        "GENDER": "Female",
+        "DEPART": "Ship",
+        "EDUC": "HS",
+        "AGE": "18",
+        "HEIGHT": "61",
+        "SENIOR": "0",
+        "SALARY": "20.600"
+    },
+    {
+        "GENDER": "Female",
+        "DEPART": "Ship",
+        "EDUC": "HS",
+        "AGE": "24",
+        "HEIGHT": "64",
+        "SENIOR": "5",
+        "SALARY": "26.400"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Ship",
+        "EDUC": "College",
+        "AGE": "37",
+        "HEIGHT": "68",
+        "SENIOR": "3",
+        "SALARY": "22.300"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Bake",
+        "EDUC": "College",
+        "AGE": "27",
+        "HEIGHT": "67",
+        "SENIOR": "2",
+        "SALARY": "21.100"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Package",
+        "EDUC": "HS",
+        "AGE": "23",
+        "HEIGHT": "69",
+        "SENIOR": "3",
+        "SALARY": "25.000"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Package",
+        "EDUC": "College",
+        "AGE": "35",
+        "HEIGHT": "67",
+        "SENIOR": "4",
+        "SALARY": "23.600"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Package",
+        "EDUC": "HS",
+        "AGE": "41",
+        "HEIGHT": "71",
+        "SENIOR": "7",
+        "SALARY": "30.500"
+    },
+    {
+        "GENDER": "Female",
+        "DEPART": "Bake",
+        "EDUC": "College",
+        "AGE": "28",
+        "HEIGHT": "63",
+        "SENIOR": "2",
+        "SALARY": "20.700"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Ship",
+        "EDUC": "College",
+        "AGE": "30",
+        "HEIGHT": "69",
+        "SENIOR": "5",
+        "SALARY": "24.800"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Ship",
+        "EDUC": "College",
+        "AGE": "42",
+        "HEIGHT": "71",
+        "SENIOR": "5",
+        "SALARY": "25.000"
+    },
+    {
+        "GENDER": "Female",
+        "DEPART": "Bake",
+        "EDUC": "HS",
+        "AGE": "27",
+        "HEIGHT": "64",
+        "SENIOR": "3",
+        "SALARY": "25.000"
+    },
+    {
+        "GENDER": "Female",
+        "DEPART": "Bake",
+        "EDUC": "HS",
+        "AGE": "35",
+        "HEIGHT": "60",
+        "SENIOR": "1",
+        "SALARY": "23.700"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Ship",
+        "EDUC": "College",
+        "AGE": "25",
+        "HEIGHT": "68",
+        "SENIOR": "5",
+        "SALARY": "25.900"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Bake",
+        "EDUC": "HS",
+        "AGE": "39",
+        "HEIGHT": "63",
+        "SENIOR": "4",
+        "SALARY": "26.900"
+    },
+    {
+        "GENDER": "Female",
+        "DEPART": "Bake",
+        "EDUC": "HS",
+        "AGE": "27",
+        "HEIGHT": "61",
+        "SENIOR": "7",
+        "SALARY": "32.000"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Package",
+        "EDUC": "HS",
+        "AGE": "27",
+        "HEIGHT": "68",
+        "SENIOR": "1",
+        "SALARY": "21.400"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Bake",
+        "EDUC": "College",
+        "AGE": "28",
+        "HEIGHT": "66",
+        "SENIOR": "1",
+        "SALARY": "19.600"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Package",
+        "EDUC": "HS",
+        "AGE": "30",
+        "HEIGHT": "68",
+        "SENIOR": "1",
+        "SALARY": "23.300"
+    },
+    {
+        "GENDER": "Female",
+        "DEPART": "Bake",
+        "EDUC": "College",
+        "AGE": "39",
+        "HEIGHT": "66",
+        "SENIOR": "2",
+        "SALARY": "21.900"
+    },
+    {
+        "GENDER": "Female",
+        "DEPART": "Package",
+        "EDUC": "College",
+        "AGE": "33",
+        "HEIGHT": "65",
+        "SENIOR": "4",
+        "SALARY": "24.700"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Package",
+        "EDUC": "HS",
+        "AGE": "38",
+        "HEIGHT": "72",
+        "SENIOR": "4",
+        "SALARY": "25.700"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Package",
+        "EDUC": "College",
+        "AGE": "28",
+        "HEIGHT": "70",
+        "SENIOR": "8",
+        "SALARY": "27.900"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Bake",
+        "EDUC": "HS",
+        "AGE": "28",
+        "HEIGHT": "68",
+        "SENIOR": "5",
+        "SALARY": "30.400"
+    },
+    {
+        "GENDER": "Female",
+        "DEPART": "Bake",
+        "EDUC": "HS",
+        "AGE": "28",
+        "HEIGHT": "67",
+        "SENIOR": "2",
+        "SALARY": "24.600"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Package",
+        "EDUC": "HS",
+        "AGE": "24",
+        "HEIGHT": "64",
+        "SENIOR": "4",
+        "SALARY": "26.500"
+    },
+    {
+        "GENDER": "Female",
+        "DEPART": "Bake",
+        "EDUC": "HS",
+        "AGE": "28",
+        "HEIGHT": "64",
+        "SENIOR": "0",
+        "SALARY": "21.700"
+    },
+    {
+        "GENDER": "Female",
+        "DEPART": "Bake",
+        "EDUC": "HS",
+        "AGE": "37",
+        "HEIGHT": "60",
+        "SENIOR": "0",
+        "SALARY": "20.400"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Ship",
+        "EDUC": "HS",
+        "AGE": "26",
+        "HEIGHT": "69",
+        "SENIOR": "1",
+        "SALARY": "23.500"
+    },
+    {
+        "GENDER": "Female",
+        "DEPART": "Package",
+        "EDUC": "HS",
+        "AGE": "54",
+        "HEIGHT": "62",
+        "SENIOR": "17",
+        "SALARY": "42.400"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Bake",
+        "EDUC": "HS",
+        "AGE": "21",
+        "HEIGHT": "69",
+        "SENIOR": "2",
+        "SALARY": "24.900"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Package",
+        "EDUC": "HS",
+        "AGE": "28",
+        "HEIGHT": "65",
+        "SENIOR": "1",
+        "SALARY": "23.800"
+    },
+    {
+        "GENDER": "Female",
+        "DEPART": "Bake",
+        "EDUC": "College",
+        "AGE": "34",
+        "HEIGHT": "64",
+        "SENIOR": "2",
+        "SALARY": "21.300"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Bake",
+        "EDUC": "HS",
+        "AGE": "35",
+        "HEIGHT": "66",
+        "SENIOR": "0",
+        "SALARY": "21.500"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Package",
+        "EDUC": "College",
+        "AGE": "19",
+        "HEIGHT": "68",
+        "SENIOR": "0",
+        "SALARY": "19.700"
+    },
+    {
+        "GENDER": "Female",
+        "DEPART": "Package",
+        "EDUC": "College",
+        "AGE": "34",
+        "HEIGHT": "63",
+        "SENIOR": "4",
+        "SALARY": "23.700"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Ship",
+        "EDUC": "HS",
+        "AGE": "21",
+        "HEIGHT": "70",
+        "SENIOR": "2",
+        "SALARY": "23.800"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Package",
+        "EDUC": "College",
+        "AGE": "25",
+        "HEIGHT": "67",
+        "SENIOR": "0",
+        "SALARY": "18.900"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Package",
+        "EDUC": "HS",
+        "AGE": "24",
+        "HEIGHT": "67",
+        "SENIOR": "0",
+        "SALARY": "22.800"
+    },
+    {
+        "GENDER": "Female",
+        "DEPART": "Bake",
+        "EDUC": "College",
+        "AGE": "32",
+        "HEIGHT": "64",
+        "SENIOR": "3",
+        "SALARY": "21.900"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Package",
+        "EDUC": "College",
+        "AGE": "33",
+        "HEIGHT": "68",
+        "SENIOR": "0",
+        "SALARY": "18.100"
+    },
+    {
+        "GENDER": "Female",
+        "DEPART": "Package",
+        "EDUC": "College",
+        "AGE": "20",
+        "HEIGHT": "65",
+        "SENIOR": "1",
+        "SALARY": "20.300"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Package",
+        "EDUC": "College",
+        "AGE": "27",
+        "HEIGHT": "67",
+        "SENIOR": "3",
+        "SALARY": "23.200"
+    },
+    {
+        "GENDER": "Female",
+        "DEPART": "Bake",
+        "EDUC": "Grad",
+        "AGE": "40",
+        "HEIGHT": "63",
+        "SENIOR": "3",
+        "SALARY": "21.500"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Ship",
+        "EDUC": "College",
+        "AGE": "35",
+        "HEIGHT": "67",
+        "SENIOR": "2",
+        "SALARY": "21.300"
+    },
+    {
+        "GENDER": "Female",
+        "DEPART": "Package",
+        "EDUC": "College",
+        "AGE": "29",
+        "HEIGHT": "63",
+        "SENIOR": "4",
+        "SALARY": "23.700"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Ship",
+        "EDUC": "HS",
+        "AGE": "29",
+        "HEIGHT": "70",
+        "SENIOR": "10",
+        "SALARY": "33.100"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Package",
+        "EDUC": "HS",
+        "AGE": "20",
+        "HEIGHT": "67",
+        "SENIOR": "1",
+        "SALARY": "23.400"
+    },
+    {
+        "GENDER": "Female",
+        "DEPART": "Bake",
+        "EDUC": "HS",
+        "AGE": "21",
+        "HEIGHT": "69",
+        "SENIOR": "2",
+        "SALARY": "22.600"
+    },
+    {
+        "GENDER": "Female",
+        "DEPART": "Ship",
+        "EDUC": "College",
+        "AGE": "37",
+        "HEIGHT": "63",
+        "SENIOR": "1",
+        "SALARY": "20.600"
+    },
+    {
+        "GENDER": "Female",
+        "DEPART": "Bake",
+        "EDUC": "HS",
+        "AGE": "21",
+        "HEIGHT": "64",
+        "SENIOR": "1",
+        "SALARY": "21.900"
+    },
+    {
+        "GENDER": "Female",
+        "DEPART": "Ship",
+        "EDUC": "HS",
+        "AGE": "28",
+        "HEIGHT": "67",
+        "SENIOR": "0",
+        "SALARY": "20.500"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Package",
+        "EDUC": "Grad",
+        "AGE": "34",
+        "HEIGHT": "69",
+        "SENIOR": "0",
+        "SALARY": "16.000"
+    },
+    {
+        "GENDER": "Female",
+        "DEPART": "Bake",
+        "EDUC": "College",
+        "AGE": "27",
+        "HEIGHT": "60",
+        "SENIOR": "0",
+        "SALARY": "19.200"
+    },
+    {
+        "GENDER": "Female",
+        "DEPART": "Ship",
+        "EDUC": "College",
+        "AGE": "27",
+        "HEIGHT": "66",
+        "SENIOR": "0",
+        "SALARY": "18.300"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Package",
+        "EDUC": "College",
+        "AGE": "38",
+        "HEIGHT": "68",
+        "SENIOR": "9",
+        "SALARY": "29.800"
+    },
+    {
+        "GENDER": "Female",
+        "DEPART": "Bake",
+        "EDUC": "Grad",
+        "AGE": "28",
+        "HEIGHT": "68",
+        "SENIOR": "3",
+        "SALARY": "21.200"
+    },
+    {
+        "GENDER": "Female",
+        "DEPART": "Package",
+        "EDUC": "College",
+        "AGE": "31",
+        "HEIGHT": "61",
+        "SENIOR": "5",
+        "SALARY": "25.300"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Package",
+        "EDUC": "HS",
+        "AGE": "41",
+        "HEIGHT": "67",
+        "SENIOR": "9",
+        "SALARY": "31.700"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Package",
+        "EDUC": "HS",
+        "AGE": "25",
+        "HEIGHT": "67",
+        "SENIOR": "5",
+        "SALARY": "26.300"
+    },
+    {
+        "GENDER": "Female",
+        "DEPART": "Ship",
+        "EDUC": "HS",
+        "AGE": "27",
+        "HEIGHT": "64",
+        "SENIOR": "0",
+        "SALARY": "20.200"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Bake",
+        "EDUC": "HS",
+        "AGE": "34",
+        "HEIGHT": "65",
+        "SENIOR": "2",
+        "SALARY": "22.400"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Ship",
+        "EDUC": "Grad",
+        "AGE": "27",
+        "HEIGHT": "67",
+        "SENIOR": "1",
+        "SALARY": "18.400"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Package",
+        "EDUC": "Grad",
+        "AGE": "48",
+        "HEIGHT": "69",
+        "SENIOR": "14",
+        "SALARY": "35.100"
+    },
+    {
+        "GENDER": "Female",
+        "DEPART": "Ship",
+        "EDUC": "College",
+        "AGE": "28",
+        "HEIGHT": "68",
+        "SENIOR": "0",
+        "SALARY": "18.400"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Bake",
+        "EDUC": "College",
+        "AGE": "35",
+        "HEIGHT": "67",
+        "SENIOR": "1",
+        "SALARY": "20.000"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Bake",
+        "EDUC": "HS",
+        "AGE": "29",
+        "HEIGHT": "66",
+        "SENIOR": "10",
+        "SALARY": "32.700"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Package",
+        "EDUC": "College",
+        "AGE": "39",
+        "HEIGHT": "72",
+        "SENIOR": "8",
+        "SALARY": "29.300"
+    },
+    {
+        "GENDER": "Female",
+        "DEPART": "Package",
+        "EDUC": "HS",
+        "AGE": "25",
+        "HEIGHT": "64",
+        "SENIOR": "7",
+        "SALARY": "31.200"
+    },
+    {
+        "GENDER": "Female",
+        "DEPART": "Package",
+        "EDUC": "HS",
+        "AGE": "21",
+        "HEIGHT": "64",
+        "SENIOR": "3",
+        "SALARY": "25.200"
+    },
+    {
+        "GENDER": "Female",
+        "DEPART": "Ship",
+        "EDUC": "HS",
+        "AGE": "21",
+        "HEIGHT": "64",
+        "SENIOR": "1",
+        "SALARY": "21.600"
+    },
+    {
+        "GENDER": "Female",
+        "DEPART": "Bake",
+        "EDUC": "College",
+        "AGE": "33",
+        "HEIGHT": "65",
+        "SENIOR": "4",
+        "SALARY": "24.600"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Bake",
+        "EDUC": "HS",
+        "AGE": "27",
+        "HEIGHT": "67",
+        "SENIOR": "9",
+        "SALARY": "31.600"
+    },
+    {
+        "GENDER": "Male",
+        "DEPART": "Bake",
+        "EDUC": "HS",
+        "AGE": "42",
+        "HEIGHT": "73",
+        "SENIOR": "5",
+        "SALARY": "26.200"
+    },
+    {
+        "GENDER": "Female",
+        "DEPART": "Bake",
+        "EDUC": "College",
+        "AGE": "34",
+        "HEIGHT": "63",
+        "SENIOR": "11",
+        "SALARY": "33.200"
+    }
+]
