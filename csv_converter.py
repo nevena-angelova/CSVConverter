@@ -4,7 +4,6 @@ import xml.etree.ElementTree as ET
 
 
 def csv_to_json(csv_file_path, json_file_path):
-    """Convert CSV file to JSON file."""
     with open(csv_file_path, mode='r', encoding='utf-8') as csv_file:
         csv_reader = csv.DictReader(csv_file)
         data = list(csv_reader)
@@ -13,7 +12,6 @@ def csv_to_json(csv_file_path, json_file_path):
 
 
 def csv_to_xml(csv_file_path, xml_file_path):
-    """Convert CSV file to XML file."""
     with open(csv_file_path, mode='r', encoding='utf-8') as csv_file:
         csv_reader = csv.DictReader(csv_file)
         data = list(csv_reader)
